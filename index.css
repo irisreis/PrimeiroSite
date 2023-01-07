@@ -1,0 +1,219 @@
+body{
+    font-family: Verdana; 
+    font-style: normal;
+}
+#btop{
+    background-color: rgb(0, 0, 0);
+    margin-top: -8px;
+    margin-left: -8px;
+    height: 85px;
+}
+#t{
+    color: white;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 37px;
+    font-size: xx-large;
+}
+#lalbum{
+    position: absolute;
+    margin-top: 38px;
+    margin-left: 790px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#lcadastro{
+    position: absolute;
+    margin-left: 1058px;
+    margin-top: 38px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#lsuporte{
+    position: absolute;
+    margin-left: 968px;
+    margin-top: 38px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#lpremium{
+    position: absolute;
+    margin-left: 871px;
+    margin-top: 38px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#bpart{
+    margin-left: 700px;
+    height: 268px;
+    width: 505px;
+}
+#fpart{
+    background-color: white;
+    height: 1000px;
+}
+#mpart{
+    background-color: white;
+    height: 800px;
+}
+#text6{
+    color: black;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 70px;
+    font-family: Gilmer-Outline; 
+}
+#text7{
+    color: black;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 30px;
+    font-family: Gilmer-Outline; 
+}
+#text8{
+    color: black;
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 50px;
+    font-family: Gilmer-Outline; 
+}
+#text4{
+    color: black;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 360px;
+    font-family: Gilmer-Outline;
+}
+.box1{
+    color: rgb(56, 56, 56);
+    float: left;
+    height: 100px;
+    width: 100px;
+    font-size: larger;
+    margin-top: 350px;
+    margin-left: 10px;
+    background-color: transparent;
+}
+.box1:hover{
+    height: 95px;
+    width: 95px;
+    transition: 2s;
+    border-radius: 5px;
+    border: solid;
+    border-color: black;
+}
+#text1{
+    color: black;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: xx-large;
+    font-weight: 95px;
+    font-family: Gilmer-Outline;
+
+}
+#text2{
+    color: black;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 30px;
+    font-size: small;
+    font-family: Gilmer-Outline;
+
+}
+#boxp{
+    color: white;
+    border-radius: 5px;
+    border: solid;
+    border-color: black;
+    box-shadow: 10px 10px 150px 5px rgb(0, 0, 0);
+    margin-left: 670px;
+    margin-top: 20px;
+    height: 480px;
+    width: 560px;
+}
+#text3{
+    color: black;
+    position: absolute;
+    margin-top: -3px;
+    margin-left: 70px;
+    font-size: xx-large;
+    font-weight: 95px;
+}
+#pvideo{
+    width: 1280px;
+    height: 726px;
+    margin-top: 50px;
+    margin-left: 0px;
+    position: absolute;
+}
+#line1{
+    background-color: transparent;
+    width: 1210px;
+    height: 700px;
+    margin-top: 40px;
+    margin-left: 40px;
+    position: absolute;
+    border-radius: 5px;
+    border-color: gray;
+    border: solid;
+    border-width: 1px;
+}
+#secpart{
+    background-color: rgb(34, 35, 38);
+    margin-left: -8px;
+    height: 205px;
+    margin-bottom: -8px;
+}
+#positionwhy{
+    margin-top: 540px;
+    position: absolute;
+}
+.boxwhy{
+    background-color: transparent;
+    margin-left: 60px;
+    float: left;
+    height: 110px;
+    width: 270px;
+    color: black;
+    font-family: Gilmer-Outline;
+}
+h3:hover{
+    color: rgb(252, 107, 59);
+    transition: 0,1s;
+}
+#text5{
+    color:rgb(252, 107, 59);
+    margin-top: 120px;
+    margin-left: 160px;
+    position: absolute;
+    font-size: xx-large;
+    font-weight: 100;
+}
+.dps{
+    margin-left: 50px;
+    margin-top: 230px;
+    color: white;
+    float: left;
+}
+.dps:hover{
+    color: rgb(252, 107, 59);
+    transition: 0,1s;
+}
+#bbot{
+    background-color: black;
+    margin-left: -8px;
+    height: 305px;
+    margin-bottom: -8px;
+}
+#t2{
+    color: white;
+    position: absolute;
+    margin-top: 235px;
+    margin-left: 40px;
+    font-size: x-large;
+}
+#intrau{
+    position: absolute;
+    margin-top: 300px;
+}

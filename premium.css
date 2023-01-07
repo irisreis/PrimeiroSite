@@ -1,0 +1,155 @@
+#btop{
+    background-color: black;
+    margin-top: -8px;
+    margin-left: -8px;
+    height: 85px;
+}
+#t{
+    color: white;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 37px;
+    font-size: xx-large;
+}
+#lalbum{
+    position: absolute;
+    margin-top: 38px;
+    margin-left: 885px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#lhome{
+    position: absolute;
+    margin-left: 1175px;
+    margin-top: 38px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#lcadastro{
+    position: absolute;
+    margin-left: 1058px;
+    margin-top: 38px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#lsuporte{
+    position: absolute;
+    margin-left: 968px;
+    margin-top: 38px;
+    color: aliceblue;
+    box-shadow: 5px 5px 20px 5px rgb(18, 18, 18);
+}
+#cpart{
+    background-color: white;
+    height: 800px;
+}
+#text1{
+    margin-top: 20px;
+    margin-left: 370px;
+    font-size: 55px;
+}
+#a1{
+    margin-top: 10px;
+    float: left;
+    margin-left: 170px;
+}
+#a2{
+    margin-top: 10px;
+    float: left;
+    margin-left: 75px;
+}#a3{
+    margin-top: 10px;
+    float: left;
+    margin-left: 75px;
+}#a4{
+    margin-top: 10px;
+    float: left;
+    margin-left: 75px;
+}
+.som:hover{
+    transition: 0.1s;
+    color:  rgb(252, 107, 59);
+}
+#info{
+    position: absolute;
+    margin-top: 100px;
+}
+#ba1{
+    background-color: transparent;
+    border-radius: 5px;
+    border: solid;
+    border-width: 1px;
+    border-color:  rgb(252, 107, 59);
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 60px;
+    height: 273px;
+    width: 245px;
+}
+#ba2{
+    background-color: transparent;
+    border-radius: 5px;
+    border: solid;
+    border-width: 1px;
+    border-color:  rgb(252, 107, 59);
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 360px;
+    height: 273px;
+    width: 245px;
+}#ba3{
+    background-color: transparent;
+    border-radius: 5px;
+    border: solid;
+    border-width: 1px;
+    border-color:  rgb(252, 107, 59);
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 660px;
+    height: 273px;
+    width: 245px;
+}#ba4{
+    background-color: transparent;
+    border-radius: 5px;
+    border: solid;
+    border-width: 1px;
+    border-color:  rgb(252, 107, 59);
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 960px;
+    height: 273px;
+    width: 245px;
+}
+.infos{
+    height: 273px;
+    width: 235px;
+    float:left;
+    margin-left: 65px;
+    margin-top: 10px;
+    box-shadow: 10px 10px 1500px 5px  rgb(0, 0, 0);
+}
+#tabela{
+    position: absolute;
+    color: white;
+    width: 1270px;
+    margin-top: 440px;
+    background-color: black;
+    box-shadow: 55px 5px 20px 5px rgb(18, 18, 18);
+}
+.det:hover{
+    font-size: 17px;
+    transition: 1s;
+}
+#uniposition{
+    margin-top: 100px;
+    margin-left: 490px;
+}
+#bbot{
+    background-color: black;
+    margin-left: -8px;
+    height: 305px;
+    margin-bottom: -8px;
+}
+.promoi{
+    color: rgb(252, 107, 59);
+}
